@@ -1,0 +1,11 @@
+Order_ID,Month,Region,Category,Payment_Mode,Quantity,Sales,Profit
+ORD-1011,Apr,South,Books,UPI,5,2200,550
+ORD-1012,Apr,East,Home & Kitchen,Debit Card,2,6200,1100
+ORD-1013,May,North,Electronics,UPI,1,31000,4900
+ORD-1014,May,West,Fashion,COD,4,8000,1500
+ORD-1015,May,South,Home & Kitchen,Credit Card,2,5800,1050
+ORD-1016,Jun,East,Books,UPI,3,1500,350
+ORD-1017,Jun,North,Electronics,UPI,2,48000,7200
+ORD-1018,Jun,West,Fashion,Credit Card,3,7200,1400
+ORD-1019,Jul,South,Electronics,UPI,1,39000,5800
+ORD-1020,Jul,East,Home & Kitchen,Debit Card,2,6400,1200
